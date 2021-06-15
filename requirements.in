@@ -1,0 +1,4 @@
+anyio
+asyncclick
+https://github.com/tokland/youtube-upload/archive/refs/heads/master.zip
+-r jump-requirements.txt
